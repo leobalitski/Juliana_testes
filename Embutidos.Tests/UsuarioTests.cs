@@ -15,6 +15,7 @@ namespace Embutidos.Tests
 
             Assert.AreEqual("Login ou senha incorretos!", resultado);
         }
+        //s
 
 
         [TestMethod]
@@ -64,7 +65,9 @@ namespace Embutidos.Tests
             if (estoque != full)
             {
                 Assert.AreEqual(" estoque vazio favor encher", resultado);
-            } else {
+            }
+            else
+            {
                 Assert.AreEqual(" estoque cheio ", resultado);
             }
 
@@ -75,13 +78,15 @@ namespace Embutidos.Tests
         {
             Validacvv cvv = new Validacvv();
 
-            var resultado = cvv.validacao ("1,2,3");
+            var resultado = cvv.validacao("1,2,3");
 
             if (cvv != ("1,2,3"))
             {
 
                 Assert.AreEqual("cvv incorreto!", resultado);
-            } else{
+            }
+            else
+            {
                 Assert.AreEqual("cvv correto!", resultado);
             }
 
