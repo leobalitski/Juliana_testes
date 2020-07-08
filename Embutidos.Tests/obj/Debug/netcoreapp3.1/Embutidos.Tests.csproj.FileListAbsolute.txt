@@ -1,0 +1,4 @@
+C:\Users\Jamal\Desktop\EmbutidosTeste\Embutidos.Tests\obj\Debug\netcoreapp3.1\Embutidos.Tests.csprojAssemblyReference.cache
+C:\Users\Jamal\Desktop\EmbutidosTeste\Embutidos.Tests\obj\Debug\netcoreapp3.1\Embutidos.Tests.AssemblyInfoInputs.cache
+C:\Users\Jamal\Desktop\EmbutidosTeste\Embutidos.Tests\obj\Debug\netcoreapp3.1\Embutidos.Tests.AssemblyInfo.cs
+C:\Users\Jamal\Desktop\EmbutidosTeste\Embutidos.Tests\obj\Debug\netcoreapp3.1\Embutidos.Tests.csproj.CoreCompileInputs.cache
